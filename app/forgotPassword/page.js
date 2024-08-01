@@ -23,7 +23,7 @@ const ForgotPasswordScreen = () => {
   return (
     <main className="min-h-screen flex flex-col">
       <Header />
-      <div className="flex-grow flex flex-col items-center justify-center bg-blue-100 py-6 px-4">
+      <div className="flex-grow flex flex-col items-center justify-center bg-white py-6 px-4">
         <div className="w-full max-w-md bg-white p-8 rounded shadow">
           <h2 className="mb-4 text-2xl font-bold text-center">Reset Password</h2>
           <form onSubmit={handleSubmit}>

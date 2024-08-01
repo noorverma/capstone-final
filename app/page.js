@@ -1,7 +1,7 @@
 'use client'
-import Header from "./components/Header";
-import LoginForm from "./components/LoginForm";
-import Footer from "./components/Footer";
+import Header from "./component/Header";
+import Footer from "./component/Footer";
+import LoginForm from "./component/LoginForm";
 
 const HomePage = () => {
   return (
